@@ -44,3 +44,5 @@ There is a slight element of chance to the crosswords, so each implementation of
 have slightly different results.
 
 Happy crosswording!
+
+PLEASE NOTE: This crossword filler currently only works in two of the given sample cases. Any case that involves backtracking currently ends in an infinite loop, which will hopefully be fixed in later iterations of this program.
